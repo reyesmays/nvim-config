@@ -1,8 +1,8 @@
-tt.*
-.tests
-doc/tags
-debug
-.repro
-foo.*
-*.log
-data
+.DS_Store
+lazy-lock.json
+/lazy/
+/state/
+/undo/
+/swap/
+/shada/
+/mason/
